@@ -1,0 +1,96 @@
+{
+    "courses": [
+        {
+            "id":1,
+            "title":"Guitar Fundamentals",
+            "slung":"guitar-fundamentals",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guitar.jpg"
+
+
+        },
+        {
+            "id":2,
+            "title":"Piano Fundamentals",
+            "slung":"gpiano-for-beginners",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/piano.jpg"
+
+
+        },
+
+        {
+            "id":3,
+            "title":"Guitar Fundamentals",
+            "slung":"guitar-fundamentals",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":false,
+            "image":"/courses/piano.jpg"
+
+
+        },
+        {
+            "id":4,
+            "title":"Piano Fundamentals",
+            "slung":"gpiano-for-beginners",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guitar.jpg"
+
+
+        },
+        {
+            "id":5,
+            "title":"Piano Fundamentals",
+            "slung":"gpiano-for-beginners",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guitar.jpg"
+
+
+        },
+        {
+            "id":6,
+            "title":"Piano Fundamentals",
+            "slung":"gpiano-for-beginners",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guitar.jpg"
+
+
+        },
+        {
+            "id":7,
+            "title":"Piano Fundamentals",
+            "slung":"gpiano-for-beginners",
+            "description":"Learn the basics of playing guitar with our comprehensive beginner's course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guitar.jpg"
+
+
+        }
+
+
+
+
+        
+        
+
+    ]
+}
